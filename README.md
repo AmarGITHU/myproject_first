@@ -1,1 +1,3 @@
 # myproject_first
+Myproject_FIRST
+myfirst_project
